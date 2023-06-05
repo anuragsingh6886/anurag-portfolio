@@ -1,2 +1,2 @@
 # anurag-portfolio
-this is a html + CSS static web page with few small Js functionality to showcase the WebDev skill. 
+This is a html + CSS static web page with few small Js functionality to showcase the WebDev skill. 
